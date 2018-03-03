@@ -1,0 +1,21 @@
+Soil Mosture Sensor
+	AO - x
+	DO - GPIO4
+	GND - GND
+	VCC - 5V
+	
+Photosensitive Sensor
+	DO - GPIO18
+	GND - GND
+	VCC - 5V	
+
+Temperature And Humidity Sensor
+	VCC - 5V
+	DAT (DO,SIG) - GPIO24
+	GND - GND
+
+Raindrop Sensor
+	AO - x
+	DO - GPIO
+	GND - GND
+	VCC - 5V	
