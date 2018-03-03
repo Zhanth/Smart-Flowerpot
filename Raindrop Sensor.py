@@ -2,12 +2,10 @@
 
 import time
 import RPi.GPIO as GPIO
- 
+
 channel = GPIOx
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(channel, GPIO.IN)
- 
-
 
 try: 
 	if GPIO.input(channel):
