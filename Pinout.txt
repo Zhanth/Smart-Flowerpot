@@ -9,7 +9,7 @@ Photosensitive Sensor (LM-393) (Yellow)
 	GND - GND
 	VCC - 5V	
 
-Temperature And Humidity Sensor (DHT-11?) (Orange)
+Temperature And Humidity Sensor (DHT-11) (Orange)
 	VCC - 5V
 	DAT (DO,SIG) - GPIO24
 	GND - GND
