@@ -11,7 +11,7 @@ def callback(channel):
                 print "Your plants are ok :)"
         else:
                 print "Time to water the plants!"
- 
+
 GPIO.add_event_detect(channel, GPIO.BOTH, bouncetime=300)
 GPIO.add_event_callback(channel, callback)
 
