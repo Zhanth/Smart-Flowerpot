@@ -1,9 +1,9 @@
-Soil Mosture Sensor
+Soil Mosture Sensor (YL-69)
 	AO - x
 	DO - GPIO4
 	GND - GND
 	VCC - 5V
-	
+
 Photosensitive Sensor
 	DO - GPIO18
 	GND - GND
@@ -14,7 +14,7 @@ Temperature And Humidity Sensor
 	DAT (DO,SIG) - GPIO24
 	GND - GND
 
-Raindrop Sensor
+Raindrop Sensor (MH-RD)
 	AO - x
 	DO - GPIO
 	GND - GND
