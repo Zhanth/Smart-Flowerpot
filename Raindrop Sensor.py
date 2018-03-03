@@ -1,7 +1,6 @@
 #link: http://raspi.tv/2017/make-a-rain-alert-system-with-raspberry-pi   
 #
 # raindrop sensor DO connected to GPIOx
-# This is a 3V3 module
 # HIGH = no rain, LOW = rain detected
 #import RPi.GPIO as GPIO
 #
