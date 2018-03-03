@@ -4,12 +4,12 @@ Soil Mosture Sensor (YL-69)
 	GND - GND
 	VCC - 5V
 
-Photosensitive Sensor
+Photosensitive Sensor (LM-393)
 	DO - GPIO18
 	GND - GND
 	VCC - 5V	
 
-Temperature And Humidity Sensor
+Temperature And Humidity Sensor (DHT-11?)
 	VCC - 5V
 	DAT (DO,SIG) - GPIO24
 	GND - GND
