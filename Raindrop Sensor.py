@@ -1,5 +1,4 @@
-# HIGH = no rain, LOW = rain detected
-
+#!/usr/bin/python
 import time
 import RPi.GPIO as GPIO
 
