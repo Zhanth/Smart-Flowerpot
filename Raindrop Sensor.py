@@ -14,4 +14,7 @@ while True:
     if not no_rain.is_active:
         print("Rain detected!")
         # other code or functions
+        # Log rainy days
+        # Activate rainy icon on app
+        # Deactivate "must water" icon on app
     time.sleep(1) 
