@@ -14,7 +14,7 @@ Temperature And Humidity Sensor (DHT-11?)
 	DAT (DO,SIG) - GPIO24
 	GND - GND
 
-Raindrop Sensor (MH-RD)
+Raindrop Sensor (MH-RD/YL-83)
 	AO - x
 	DO - GPIO
 	GND - GND
