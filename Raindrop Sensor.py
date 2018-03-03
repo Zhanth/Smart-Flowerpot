@@ -1,6 +1,6 @@
 #!/usr/bin/python
-import time
 import RPi.GPIO as GPIO
+import time
 
 channel = 17
 GPIO.setmode(GPIO.BCM)
