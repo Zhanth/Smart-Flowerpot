@@ -16,6 +16,6 @@ Temperature And Humidity Sensor (DHT-11?) (Orange)
 
 Raindrop Sensor (MH-RD/YL-83) (Blue)
 	AO - x
-	DO - GPIOx
+	DO - GPIO17
 	GND - GND
 	VCC - 3V3	
