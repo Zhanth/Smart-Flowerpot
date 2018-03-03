@@ -8,9 +8,9 @@ GPIO.setup(channel, GPIO.IN)
  
 def callback(channel):
         if GPIO.input(channel):
-                print "Water Detected!"
+                print "Your plants are ok :)"
         else:
-                print "Water not detected!"
+                print "Time to water the plants!"
  
 GPIO.add_event_detect(channel, GPIO.BOTH, bouncetime=300)
 GPIO.add_event_callback(channel, callback)
