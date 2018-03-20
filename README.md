@@ -1,1 +1,1 @@
-# Smart-Flowerpot
+# PlantX
