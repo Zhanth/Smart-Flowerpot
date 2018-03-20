@@ -1,13 +1,15 @@
-Soil Mosture Sensor (YL-69) (Brown)
+Soil Mosture Sensor (YL-69) (Blue)
 	AO - x
 	DO - GPIO4
 	GND - GND
 	VCC - 5V
 
 Photosensitive Sensor (LM-393) (Yellow)
-	DO - GPIO18
+	DO - GPIO17
 	GND - GND
 	VCC - 5V	
+
+_______________________________________________	
 
 Temperature And Humidity Sensor (DHT-11) (Orange)
 	VCC - 5V
